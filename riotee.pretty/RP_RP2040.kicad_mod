@@ -500,7 +500,7 @@
     (solder_mask_margin 0.025) (solder_paste_margin -0.025) (tstamp bf9eb570-f720-44e2-bcd2-388f9fc1bbd8))
   (pad "57" smd roundrect (at 0 0) (size 3.2 3.2) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.025)
     (solder_mask_margin 0.05) (tstamp a3289898-5f27-4bdc-8b07-f6ecc26f74ad))
-  (model "${KIPRJMOD}/../library/riotee.3dshapes/RP_RP2040.stp"
+  (model "${KICAD_USER_3DMODEL_DIR}/riotee.3dshapes/RP_RP2040.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

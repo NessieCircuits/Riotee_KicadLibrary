@@ -33,7 +33,7 @@
     (solder_mask_margin 0.05) (solder_paste_margin -0.05) (tstamp 4306d252-64d0-4d18-a484-38d8e91d8705))
   (pad "5" smd roundrect (at -1.425 0 270) (size 1.7 0.55) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.05)
     (solder_mask_margin 0.05) (solder_paste_margin -0.05) (tstamp 645ba0a8-da68-4e92-8b03-7698a81bcc5f))
-  (model "${KIPRJMOD}/../riotee.3dshapes/CNK_KMR2.STEP"
+  (model "${KICAD_USER_3DMODEL_DIR}/riotee.3dshapes/CNK_KMR2.STEP"
     (offset (xyz 0 0 1.4))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))

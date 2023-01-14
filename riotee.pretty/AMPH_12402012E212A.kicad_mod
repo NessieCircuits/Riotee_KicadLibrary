@@ -58,7 +58,7 @@
   (pad "S1" thru_hole oval (at 4.28 1.07) (size 1 1.8) (drill oval 0.6 1.4) (layers *.Cu *.Mask) (tstamp 9c30baff-f286-4f48-a160-8d2a8528f5b2))
   (pad "S1" thru_hole oval (at -4.36 -3.11) (size 1 2.1) (drill oval 0.6 1.7) (layers *.Cu *.Mask) (tstamp 9ce74ffb-2983-43cf-84a5-864478dcdd2e))
   (pad "S1" thru_hole oval (at 4.28 -3.11) (size 1 2.1) (drill oval 0.6 1.7) (layers *.Cu *.Mask) (tstamp a9767dd5-1a2d-4ca9-934d-1cee7f60c8d0))
-  (model "${KIPRJMOD}/../riotee.3dshapes/AMPH_12402012E212A.stp"
+  (model "${KICAD_USER_3DMODEL_DIR}/riotee.3dshapes/AMPH_12402012E212A.stp"
     (offset (xyz 39.96 1.1 1.5))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

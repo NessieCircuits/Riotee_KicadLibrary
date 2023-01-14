@@ -58,7 +58,7 @@
     (solder_mask_margin 0.05) (solder_paste_margin_ratio -0.15) (tstamp 6b3c79e4-f43f-405a-b314-578f616ee023))
   (pad "2" smd rect (at 10.5 0 90) (size 7.4 2) (layers "F.Cu" "F.Mask")
     (solder_mask_margin 0.05) (tstamp 77caec5d-b95d-4466-b665-04f6f7a2f96c))
-  (model "/home/kai/workspace/squeece-dk/riotee.3dshapes/AS_KXOB25_23x08.step"
+  (model "${KICAD_USER_3DMODEL_DIR}/riotee.3dshapes/AS_KXOB25_23x08.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))

@@ -47,7 +47,7 @@
     (primitives
       (gr_circle (center 0.64 0) (end 1.27 0) (width 0.3) (fill none))
     ) (tstamp b26b9c17-b0c6-4e11-bef8-2aaef5508da1))
-  (model "/home/kai/workspace/squeece-dk/riotee.3dshapes/VES_VM1010.step"
+  (model "${KICAD_USER_3DMODEL_DIR}/riotee.3dshapes/VES_VM1010.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 180))

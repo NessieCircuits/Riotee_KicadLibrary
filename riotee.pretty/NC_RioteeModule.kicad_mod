@@ -81,4 +81,9 @@
     (solder_mask_margin 0.05) (solder_paste_margin_ratio -0.15) (tstamp 49c73624-deba-4e4a-bd04-2e2e7e1c2e33))
   (pad "29" smd roundrect (at 11.05 -3.81 90) (size 0.8 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.15)
     (solder_mask_margin 0.05) (solder_paste_margin_ratio -0.15) (tstamp d948f110-71bd-4872-b46b-eb1e1eed62e3))
+  (model "${KICAD_USER_3DMODEL_DIR}/riotee.3dshapes/NC_RIOTEE.stp"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 90))
+  )
 )
