@@ -108,7 +108,7 @@
     (solder_mask_margin 0.025) (tstamp 9018eb45-5ff0-4b1a-8dcf-ed2e33b788d2))
   (pad "9" smd roundrect (at 0 0) (size 0.2 1.6) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.05)
     (solder_mask_margin 0.025) (tstamp 90367555-ada3-4df3-8090-ccf8ccf7ead7))
-  (model "${KICAD_USER_3DMODEL_DIR}/riotee.3dshapes/WB_UX8.step"
+  (model "${KIPRJMOD}/../library/riotee.3dshapes/WB_UX8.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

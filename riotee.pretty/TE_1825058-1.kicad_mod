@@ -63,7 +63,7 @@
     (solder_mask_margin 0.05) (solder_paste_margin_ratio -0.1) (tstamp a7e83190-8d97-494d-ac2f-2efeef5969e7))
   (pad "4" smd rect (at 4.13 -1.27) (size 2.16 1.52) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_mask_margin 0.05) (solder_paste_margin_ratio -0.1) (tstamp d40d93b5-deee-48dc-b562-ebf02cb0e151))
-  (model "${KICAD_USER_3DMODEL_DIR}/riotee.3dshapes/TE_1825058-1.stp"
+  (model "${KIPRJMOD}/../library/riotee.3dshapes/TE_1825058-1.step"
     (offset (xyz 0 0 4.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))

@@ -65,7 +65,7 @@
     (solder_mask_margin 0.025) (solder_paste_margin -0.025) (tstamp 876d5495-3526-4da0-98de-09db6681da36))
   (pad "12" smd roundrect (at -0.25 -0.775 180) (size 0.3 0.35) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.05)
     (solder_mask_margin 0.025) (solder_paste_margin -0.025) (tstamp b8b92ead-1ba3-4659-94bf-a5303277aa25))
-  (model "${KICAD_USER_3DMODEL_DIR}/riotee.3dshapes/BOS_BMA400.step"
+  (model "${KIPRJMOD}/../library/riotee.3dshapes/BOS_BMA400.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

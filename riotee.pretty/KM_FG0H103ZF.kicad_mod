@@ -25,7 +25,7 @@
   (fp_circle (center 0 0) (end 5.5 0) (layer "F.Fab") (width 0.1) (fill none) (tstamp 4c1f7d3c-0814-4bb2-9b22-d2d90ce72417))
   (pad "1" thru_hole rect (at -2.54 0) (size 1.6 2.6) (drill oval 0.6 1.6) (layers *.Cu *.Mask) (tstamp b9550d75-8d1d-4edc-9b54-b6bbd6ee6a72))
   (pad "2" thru_hole oval (at 2.54 0) (size 1.6 2.6) (drill oval 0.6 1.6) (layers *.Cu *.Mask) (tstamp e56b9e82-3ea2-4eb0-9dd7-6c5f054d52cc))
-  (model "${KICAD_USER_3DMODEL_DIR}/riotee.3dshapes/KM_FG0H103ZF.stp"
+  (model "${KIPRJMOD}/../library/riotee.3dshapes/KM_FG0H103ZF.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 180))

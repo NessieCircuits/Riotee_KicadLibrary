@@ -61,7 +61,7 @@
     (solder_mask_margin 0.025) (solder_paste_margin -0.05) (tstamp 2ab4f2d4-3fa9-4b77-998c-3b199e34920a))
   (pad "5" smd rect (at 0 0 90) (size 1.6 0.7) (layers "F.Cu" "F.Mask")
     (solder_mask_margin 0.025) (solder_paste_margin -0.1) (tstamp 8208086e-f629-4961-9824-d36fe73fe111))
-  (model "${KICAD_USER_3DMODEL_DIR}/riotee.3dshapes/SEN_SHTC3.step"
+  (model "${KIPRJMOD}/../library/riotee.3dshapes/SEN_SHTC3.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

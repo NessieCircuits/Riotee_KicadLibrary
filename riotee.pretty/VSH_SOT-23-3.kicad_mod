@@ -37,7 +37,7 @@
     (solder_mask_margin 0.05) (solder_paste_margin -0.05) (tstamp 5c8cf4ae-d48b-43ed-aeca-5cfb92f27e01))
   (pad "3" smd roundrect (at 0.9845 0) (size 0.724 0.56) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.05)
     (solder_mask_margin 0.05) (solder_paste_margin -0.05) (tstamp 91ffc048-6cc5-4a47-9f80-73c9a7d4c15a))
-  (model "${KICAD_USER_3DMODEL_DIR}/riotee.3dshapes/VSH_SOT-23-3.step"
+  (model "${KIPRJMOD}/../library/riotee.3dshapes/VSH_SOT-23-3.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))

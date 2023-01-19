@@ -93,7 +93,7 @@
     (solder_mask_margin 0.025) (tstamp f8ab16b8-8bef-4dda-a3ab-571075736b53))
   (pad "8" smd rect (at 0.3475 -0.8 270) (size 0.25 0.505) (layers "F.Cu" "F.Mask")
     (solder_mask_margin 0.025) (tstamp f8ab16b8-8bef-4dda-a3ab-571075736b53))
-  (model "${KICAD_USER_3DMODEL_DIR}/riotee.3dshapes/NXP_SOT833-1.STEP"
+  (model "${KIPRJMOD}/../library/riotee.3dshapes/NXP_SOT833-1.step"
     (offset (xyz 0 0.04 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

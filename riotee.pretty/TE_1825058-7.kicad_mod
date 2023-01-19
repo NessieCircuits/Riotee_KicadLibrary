@@ -83,7 +83,7 @@
   (pad "6" smd rect (at 4.1275 1.27) (size 2.159 1.524) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f50ef76e-ca61-4106-ac81-82aca8dff929))
   (pad "7" smd rect (at 4.1275 -1.27) (size 2.159 1.524) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a7e83190-8d97-494d-ac2f-2efeef5969e7))
   (pad "8" smd rect (at 4.1275 -3.81) (size 2.159 1.524) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d40d93b5-deee-48dc-b562-ebf02cb0e151))
-  (model "${KICAD_USER_3DMODEL_DIR}/riotee.3dshapes/TE-1825058-7.stp"
+  (model "${KIPRJMOD}/../library/riotee.3dshapes/TE-1825058-7.step"
     (offset (xyz 0 0 4.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))
