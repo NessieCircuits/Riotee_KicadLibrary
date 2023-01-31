@@ -10,6 +10,10 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 2b78916b-a283-40a1-bda9-12c8a746fa2b)
   )
+  (fp_text user "${REFERENCE}" (at 0.05 0.01) (layer "F.Fab")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp bd47a060-b86a-4be0-a7aa-b4363b036995)
+  )
   (fp_poly (pts
       (xy -1.05 3.225)
       (xy -0.95 3.225)
