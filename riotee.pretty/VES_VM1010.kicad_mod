@@ -29,6 +29,8 @@
   (fp_line (start -1.575 -1.98) (end -1.575 1.98) (layer "F.SilkS") (width 0.12) (tstamp 49368ee1-2641-408e-8ccb-1f57e1dac223))
   (fp_line (start -1.575 1.98) (end 1.575 1.98) (layer "F.SilkS") (width 0.12) (tstamp 78e7fabf-6c0a-4f53-9a8c-057741cc46c7))
   (fp_line (start 1.575 -1.98) (end -1.575 -1.98) (layer "F.SilkS") (width 0.12) (tstamp e7663d53-c271-4ea5-bd9b-cb13ce1a8ba3))
+  (fp_circle (center 0 0.75) (end 0.5 0.75) (layer "B.Mask") (width 0.12) (fill solid) (tstamp 00187a0c-18fa-4485-b89d-a84c46029f10))
+  (fp_circle (center 0 0.75) (end 0.77 0.75) (layer "F.Mask") (width 0.12) (fill solid) (tstamp e0c415a1-fc55-4f96-b723-e05376b9511d))
   (fp_line (start 1.7 2.1) (end -1.7 2.1) (layer "F.CrtYd") (width 0.05) (tstamp 0a9f2566-da2b-452d-951f-c3096f787a2c))
   (fp_line (start 1.7 -2.1) (end 1.7 2.1) (layer "F.CrtYd") (width 0.05) (tstamp 79a6af3a-ff88-4bb7-acb0-106dee8d891d))
   (fp_line (start -1.7 -2.1) (end 1.7 -2.1) (layer "F.CrtYd") (width 0.05) (tstamp b03fb202-2cbf-46eb-aa86-9240eaab7a48))
@@ -52,7 +54,7 @@
     (solder_mask_margin 0.05) (solder_paste_margin -0.1) (tstamp 30f56b5c-a5e8-4e37-85e5-9776748bfbd1))
   (pad "7" smd circle (at 0 -1.35 90) (size 0.6 0.6) (layers "F.Cu" "F.Mask")
     (solder_mask_margin 0.05) (solder_paste_margin -0.1) (tstamp 9a960554-d8f4-4848-ba19-5f0ee4d777c8))
-  (pad "8" smd custom (at 0 1.39 90) (size 0.1 0.1) (layers "F.Cu" "F.Mask")
+  (pad "8" smd custom (at 0 1.39 90) (size 0.1 0.1) (layers "F.Cu")
     (solder_mask_margin 0.05) (solder_paste_margin -0.05)
     (options (clearance outline) (anchor circle))
     (primitives
