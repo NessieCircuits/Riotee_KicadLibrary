@@ -1,7 +1,7 @@
 (footprint "NXP_SOT833-1" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "REF**" (at 0.9425 2.15 180) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 3af4d517-a28f-4367-96df-9c4a187c97c0)

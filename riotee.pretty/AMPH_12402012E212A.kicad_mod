@@ -3,7 +3,7 @@
   (tedit 5A142044)
   (descr "USB TYPE C, RA RCPT PCB, SMT, https://www.amphenol-cs.com/usb2-0-12402012e212a.html")
   (tags "USB C Type-C Receptacle SMD")
-  (attr smd)
+  (attr through_hole)
   (fp_text reference "REF**" (at -0.01 -6.33) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 9aacb549-467c-4495-85eb-94ac0ec1fad3)

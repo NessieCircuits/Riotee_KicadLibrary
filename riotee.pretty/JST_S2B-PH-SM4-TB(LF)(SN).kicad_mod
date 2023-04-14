@@ -1,7 +1,7 @@
 (footprint "JST_S2B-PH-SM4-TB(LF)(SN)" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 60AF4DD5)
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "REF**" (at 0.3 5.65) (layer "F.SilkS")
     (effects (font (size 1.002189 1.002189) (thickness 0.15)))
     (tstamp df67c8da-d4d8-4700-874e-515880099f5c)
