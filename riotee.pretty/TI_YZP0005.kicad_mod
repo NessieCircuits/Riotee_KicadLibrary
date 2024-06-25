@@ -73,7 +73,7 @@
     (solder_mask_margin 0.03) (tstamp d1909c11-300b-4285-9787-05fad574c1e9))
   (pad "C2" smd circle (at 0.25 0.5) (size 0.23 0.23) (layers "F.Cu" "F.Mask")
     (solder_mask_margin 0.03) (tstamp d1909c11-300b-4285-9787-05fad574c1e9))
-  (model "/home/kai/workspace/Riotee_ProbeHardware/library/riotee.3dshapes/TI_YZP0005.step"
+  (model "${KIPRJMOD}/../library/riotee.3dshapes/TI_YZP0005.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))

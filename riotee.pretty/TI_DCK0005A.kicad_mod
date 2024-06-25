@@ -42,7 +42,7 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "/home/kai/workspace/Riotee_Board/library/riotee.3dshapes/TI_DCK0005A.stp"
+  (model "${KIPRJMOD}/../library/riotee.3dshapes/TI_DCK0005A.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
