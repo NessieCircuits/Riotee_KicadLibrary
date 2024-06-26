@@ -37,7 +37,7 @@
     (solder_mask_margin 0.05) (solder_paste_margin -0.05) (tstamp 2c92cf9e-89f3-4c3f-a1ee-04164c903604))
   (pad "5" smd rect (at 1.1 -0.65) (size 0.9 0.4) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_mask_margin 0.05) (solder_paste_margin -0.05) (tstamp 19c8df82-58bd-451a-b074-6a58ff7edb5e))
-  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-353_SC-70-5.wrl"
+  (model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-353_SC-70-5.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
