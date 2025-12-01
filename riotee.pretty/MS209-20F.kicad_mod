@@ -1,0 +1,112 @@
+(footprint "MS209-20F"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "15fc3e07-d9f3-46d3-a56f-4bb57dffd41f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "MS209-20F"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "19bbb0f2-358f-4bca-ab2c-2aabf350d1bc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b8e87aac-9461-4156-b4b3-c8df7fbe1e74")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b1ac0b00-b37b-4b09-8f68-f3279768ee58")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -7.55 -10.35)
+		(end 7.55 10.35)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "Dwgs.User")
+		(uuid "888995f2-c060-4cd8-a8ae-8cb4024fe6d7")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "aec5c428-a1ad-406b-abf4-aab70de6ab22")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd custom
+		(at 7.35 -10.4)
+		(size 1 1)
+		(layers "F.Cu" "F.Mask")
+		(thermal_bridge_angle 90)
+		(options
+			(clearance outline)
+			(anchor circle)
+		)
+		(primitives
+			(gr_rect
+				(start -0.55 -0.7)
+				(end 0.95 20.6)
+				(width 0.2)
+				(fill yes)
+			)
+			(gr_rect
+				(start -15.65 -0.7)
+				(end 0.95 0.8)
+				(width 0.2)
+				(fill yes)
+			)
+			(gr_rect
+				(start -15.65 -0.7)
+				(end -14.15 20.6)
+				(width 0.2)
+				(fill yes)
+			)
+		)
+		(uuid "26f241ee-42dc-47e9-8086-ecd27ff6ad43")
+	)
+	(embedded_fonts no)
+)
